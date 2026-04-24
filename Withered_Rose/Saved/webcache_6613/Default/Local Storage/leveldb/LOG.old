@@ -1,0 +1,9 @@
+2026/04/24-15:36:42.263 1c2c Reusing MANIFEST C:\Users\AdamM\Documents\Unreal Projects\WitheredRose\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/24-15:36:42.950 1c2c Recovering log #13
+2026/04/24-15:36:42.997 1c2c Level-0 table #16: started
+2026/04/24-15:36:43.123 1c2c Level-0 table #16: 70805 bytes OK
+2026/04/24-15:36:43.128 1c2c Delete type=0 #13
+2026/04/24-15:36:43.129 5b5c Compacting 4@0 + 0@1 files
+2026/04/24-15:36:43.141 5b5c Generated table #18@0: 5 keys, 10807 bytes
+2026/04/24-15:36:43.141 5b5c Compacted 4@0 + 0@1 files => 10807 bytes
+2026/04/24-15:36:43.142 5b5c compacted to: files[ 0 1 1 0 0 0 0 ]

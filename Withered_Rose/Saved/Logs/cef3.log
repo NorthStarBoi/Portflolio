@@ -1,0 +1,9 @@
+[4760:16816:0424/153632.685:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[4760:16816:0424/153641.029:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[1336:16500:0424/153733.578:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-6A19A277A9E1B2CF741CA49C4AE8DB96 will be ignored
+[4760:16816:0424/154652.143:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[18952:22160:0424/154700.039:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[18952:14264:0424/154700.097:ERROR:ukm_database_backend.cc(146)] Failed to open UKM database: 0 database is locked
+[18952:22160:0424/154700.117:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[28280:16920:0424/154704.201:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-19C817EBD67D99A0AD58123A3F287B4A will be ignored
+[18952:22160:0424/155757.261:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
